@@ -1,5 +1,8 @@
 {
-	"latest_version": "pre-release 3",
+	"latest_stable_version": "pre-release 3",
+	"latest_stable_URL": "",
+	"latest_test_version": "",
+	"latest_test_URL": "",
 	"changelog": [
 		"- idk smth",
 		"this liens exists...."
